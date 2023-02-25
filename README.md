@@ -12,11 +12,4 @@ While the code is open source, the data is sensitive and remains private : no da
 
 
 ### Project authors
-This project was done by Gabriel Fiastre, Pierre Fihey and Artus Naar as our master's degree 1st year thesis in statistics during the 21-22 course year at Paris Dauphine University. It was supervised by the LEDa conference master Mr. Sylvain Benoit, in cooperation with a control agency which assisted the oral defense, appreciated and used our work.
-
-
-
-
-Best,
-
-Gabriel Fiastre, Pierre Fihey, artus Naar
+This project was done by [Gabriel Fiastre](https://www.linkedin.com/in/gabriel-fiastre-4b5085184/), [Pierre Fihey](https://www.linkedin.com/in/pierre-fihey-9524671a1/) and [Artus Naar](https://www.linkedin.com/in/artus-naar-526354201/) as our master's degree 1st year thesis in statistics during the 21-22 course year at Paris Dauphine University. It was supervised by the LEDa conference master Mr. Sylvain Benoit, in cooperation with a control agency which assisted the oral defense, appreciated and used our work.
