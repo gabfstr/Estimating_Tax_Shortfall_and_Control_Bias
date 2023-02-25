@@ -7,7 +7,8 @@ This paper presents an estimate of the tax shortfall revenue through different m
 
 
 ### Informations
-While the full version of the project report is in French, a short version of the paper in english is also available in this repository : Tax shortfall estimation for companies
+While the full version of the project report is in French, a short version of the paper in english is also available in this repository : Tax shortfall estimation for companies.
+While the code is open source, the data is sensitive and remains private : no data is provided hence the scripts can not be run on the original data. They can still be analyzed or inspire adaptations on another dataset (see LICENSE). 
 
 
 ### Project authors
