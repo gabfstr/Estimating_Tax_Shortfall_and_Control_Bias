@@ -19,4 +19,4 @@ This project was done by Gabriel Fiastre, Pierre Fihey and Artus Naar as our mas
 
 Best,
 
-Gabriel Fiastre, Pierre FIhey, artus Naar
+Gabriel Fiastre, Pierre Fihey, artus Naar
