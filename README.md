@@ -11,4 +11,9 @@ While the full version of the project report is in French, a short version of th
 
 
 ### Project authors
-This project was done with Artus Naar and Pierre Fihey as our master's degree 1st year thesis in statistics during the 21-22 course year at Paris Dauphine University. It was supervised by the LEDa conference master Mr. Sylvain Benoit, in cooperation with a control agency which assisted the oral defense, appreciated and used our work.
+This project was done by Gabriel Fiastre, Pierre Fihey and Artus Naar as our master's degree 1st year thesis in statistics during the 21-22 course year at Paris Dauphine University. It was supervised by the LEDa conference master Mr. Sylvain Benoit, in cooperation with a control agency which assisted the oral defense, appreciated and used our work.
+
+
+
+Best,
+Gabriel Fiastre, Pierre FIhey, artus Naar
