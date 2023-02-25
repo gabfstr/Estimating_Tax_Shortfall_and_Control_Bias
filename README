@@ -1,0 +1,32 @@
+Mémoire de Recherche, S13 : Estimation du manque à gagner
+FIASTRE Gabriel, FIHEY Pierre, NAAR Artus
+Le 8 Mai 2021
+
+
+Le rapport de mémoire est intitulé S13.pdf, et il est accompagné de scripts R que l'on pourra exécuter.
+
+
+Le code est contenu dans un dossier intitulé S13.R
+Il est composé de 3 scripts différents, que l'on voudra exécuter séparément : 
+- S13_PSM.R
+- S13_KNN.R
+- S13_RF.R
+
+Pour chacun d'entre eux, il faudra exécuter l'ensemble du script. En fonction de l'ordinateur, leur exécution peut durer de 1 à 5 minutes. Ce temps d'exécution a été réduit au maximum, et cela est dû aux modélisations étudiée dans le cadre du mémoire, qui peuvent s'avérer coûteuses par nature.
+
+
+Les scripts permettront de calculer respectivement :
+
+- S13_PSM.R : L'estimation du mag par propensity score matching (PSM).
+Ce script permet également de calculer le mag par appariement par distance de Mahalanobis. On pourra trouver à la fin du fichier une notice pour ce faire.
+
+- S13_KNN.R : L'estimation du mag par algorithme K-nearest neighbours (KNN)
+
+- S13_RF_R : L'estimation du mag par algorithme de Random Forest (RF)
+
+
+
+Bien cordialement
+
+
+Gabriel Fiastre, Pierre Fihey, Artus Naar
