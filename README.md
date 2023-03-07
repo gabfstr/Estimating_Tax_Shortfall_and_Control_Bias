@@ -1,10 +1,10 @@
 # Estimation du manque à gagner
 ## *Estimating shortfall in social security contribution tax revenue : highlighting treatment bias in the audit of companies*
 
-<p float left align=center>
+<p float left align=left>
   <img height=300 alt="Tax shortfall example" src="https://user-images.githubusercontent.com/88781950/223114087-dd3c0880-987f-476f-973f-4d3e8e871291.png">
   
-  <img height="300" hspace = 12 alt="Matching techniques" src="https://user-images.githubusercontent.com/88781950/223311309-6e78adc6-e610-401f-95c4-bec6a429d003.png">
+  <img height="300" hspace = 10 alt="Matching techniques" src="https://user-images.githubusercontent.com/88781950/223311309-6e78adc6-e610-401f-95c4-bec6a429d003.png">
 </p>
 
 ### *Abstract*
