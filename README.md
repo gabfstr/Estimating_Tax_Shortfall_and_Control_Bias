@@ -2,7 +2,7 @@
 ## *Estimating shortfall in social security contribution tax revenue : highlighting treatment bias in the audit of companies*
 
 
-<img width="550" alt="Capture d’écran 2022-11-06 à 20 10 38" src="https://user-images.githubusercontent.com/88781950/223114087-dd3c0880-987f-476f-973f-4d3e8e871291.png">
+<img width="600" align = "center" alt="Capture d’écran 2022-11-06 à 20 10 38" src="https://user-images.githubusercontent.com/88781950/223114087-dd3c0880-987f-476f-973f-4d3e8e871291.png">
 
 
 ### *Abstract*
