@@ -2,11 +2,11 @@
 ## *Estimating shortfall in social security contribution tax revenue : highlighting treatment bias in the audit of companies*
 
 
+<img width="550" alt="Capture d’écran 2022-11-06 à 20 10 38" src="https://user-images.githubusercontent.com/88781950/223114087-dd3c0880-987f-476f-973f-4d3e8e871291.png">
+
+
 ### *Abstract*
 This paper presents an estimate of the tax shortfall revenue through different methods, highlighting a bias in the selection process of auditing certain companies for potential fraud on Social Security Contribution. After defining the theoretical framework, we first propose an estimate of tax shortfall through different combination of propensity score matching and classical Machine Learning methods. The propensity score matching shall take eventual treatment bias into account and supposedly cancel it out, making comparison with classical results interesting. We will then compare the results in order to discuss the existence of a bias in the auditing selection process of the companies, showing that although there is no obvious selection bias based on the probability of being fraudulous, a selection bias on the potential adjutment amount can be highlighted.
-
-
-<img width="436" alt="Capture d’écran 2022-11-06 à 20 10 38" src="https://user-images.githubusercontent.com/88781950/223114087-dd3c0880-987f-476f-973f-4d3e8e871291.png">
 
 
 ### Informations
